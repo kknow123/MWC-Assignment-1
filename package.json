@@ -1,5 +1,5 @@
 {
-  "name": "MWC-Assignment-1",
+  "name": "mwc-assignment-1",
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "http://ionicframework.com/",
@@ -37,5 +37,14 @@
     "@ionic/app-scripts": "3.1.8",
     "typescript": "2.4.2"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kknow123/MWC-Assignment-1.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kknow123/MWC-Assignment-1/issues"
+  }
 }
